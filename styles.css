@@ -7,8 +7,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background: #ebc000df url('https://www.transparenttextures.com/patterns/white-linen.png') repeat;
-    color: #444;
+    background: #2c3e50 url('https://www.transparenttextures.com/patterns/white-linen.png') repeat;
+    color: #ecf0f1;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 .sidebar {
-    background: linear-gradient(135deg, #2c3e50, #3498db);
+    background: linear-gradient(135deg, #6a1b9a, #009688);
     color: white;
     width: 300px;
     padding: 20px;
@@ -32,13 +32,13 @@ body {
     font-size: 2em;
     color: #ffffff;
     padding: 10px;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #009688;
     display: inline-block;
     transition: color 0.3s;
 }
 
 .name-tag:hover {
-    color: #3498db;
+    color: #6a1b9a;
 }
 
 .sidebar ul {
@@ -122,7 +122,7 @@ main {
 }
 
 section {
-    background: linear-gradient(145deg, rgba(173, 216, 230, 0.8), rgba(224, 255, 255, 0.8));
+    background: linear-gradient(145deg, rgba(106, 27, 154, 0.9), rgba(0, 150, 136, 0.9));
     border-radius: 10px;
     padding: 20px;
     margin: 20px 0;
@@ -132,7 +132,7 @@ section {
 }
 
 section h2 {
-    color: #2c3e50;
+    color: #ecf0f1;
     margin-bottom: 15px;
     font-size: 1.8em;
     font-family: 'Merriweather', serif;
@@ -152,14 +152,14 @@ section h2 {
 
 .project {
     margin-bottom: 20px;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(106, 27, 154, 0.9);
     border-radius: 8px;
     padding: 15px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .project h3 {
-    color: #2980b9;
+    color: #009688;
     font-size: 1.4em;
     font-family: 'Merriweather', serif;
     margin-bottom: 10px;
@@ -169,35 +169,35 @@ section h2 {
     display: inline-block;
     margin-top: 10px;
     color: #ffffff;
-    background-color: #2980b9;
+    background-color: #009688;
     text-decoration: none;
-    border: 1px solid #2980b9;
+    border: 1px solid #009688;
     padding: 10px 15px;
     border-radius: 5px;
     transition: background-color 0.3s, color 0.3s;
 }
 
 .project a:hover {
-    background-color: #3498db;
+    background-color: #6a1b9a;
     color: white;
 }
 
 h1 {
     margin-top: 20px;
     font-size: 1.8em;
-    color: #2c3e50;
+    color: #ecf0f1;
     font-family: 'Merriweather', serif;
 }
 
 .contact-info a {
-    color: #2980b9;
+    color: #009688;
     text-decoration: none;
 }
 
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #2c3e50;
+    background-color: #34495e;
     color: white;
     position: relative;
     bottom: 0;
