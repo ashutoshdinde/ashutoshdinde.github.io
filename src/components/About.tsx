@@ -32,7 +32,7 @@ const About = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6">About Me</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             I'm a passionate Computer Engineering student with hands-on experience in building robust 
-            software solutions. Completed my BE at SPPU with a CGPA of 8.08, I specialize in 
+            software solutions. Completed my BE from SPPU with a CGPA of 8.08, I specialize in 
             Java development and Spring Boot framework.
           </p>
         </div>
