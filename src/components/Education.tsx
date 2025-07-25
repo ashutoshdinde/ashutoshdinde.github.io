@@ -120,7 +120,7 @@ const Education = () => {
               <h3 className="text-xl font-semibold mb-6">Academic Highlights</h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary mb-2">7.95</div>
+                  <div className="text-2xl font-bold text-primary mb-2">8.08</div>
                   <div className="text-sm text-muted-foreground">Current CGPA</div>
                 </div>
                 <div className="text-center">
